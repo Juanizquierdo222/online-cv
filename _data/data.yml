@@ -8,13 +8,13 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alberto
-  tagline: Estudiante
+  name: Juan Alberto Izqioerdo Fiscal
+  tagline: Estudiante de Ingenieria en sistemas computacionales
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: juaneslaonda@gmail.com
-  phone: 012 345 6789
+  phone: 9938561523
   timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
